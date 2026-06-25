@@ -1,6 +1,6 @@
 # Protocol: Biological Vessel Baseline
 
-**Goal: Maintain the vessel in a state of continuous anabolism and structural hardening.
+**Goal: Maintain the vessel in a state of continuous anabolism and structural hardening.**
 
 
 **Fueling:**
