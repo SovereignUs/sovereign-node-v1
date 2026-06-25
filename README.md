@@ -20,5 +20,5 @@
 
 [TOOLS](https://github.com/SovereignUs/sovereign-node-v1/tree/master/tools)
 
-**Want to be part of the movement for being soverign, aligned and free from misalignment's stress? lets work this out together**
+**Want to be part of the movement for being sovereign, aligned and free from misalignment's stress? lets work this out together**
 [contact@sovereignus.org](mailto:contact@sovereignus.org)
