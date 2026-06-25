@@ -13,3 +13,9 @@
  **Status**: Active
 
  **Current Focus**: Establishing baseline protocols for vessel-environment synchronization.
+
+[PROTOCOLS](https://github.com/SovereignUs/sovereign-node-v1/tree/master/protocols)
+
+[DOCS](https://github.com/SovereignUs/sovereign-node-v1/tree/master/docs)
+
+[TOOLS](https://github.com/SovereignUs/sovereign-node-v1/tree/master/tools)
