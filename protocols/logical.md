@@ -15,5 +15,5 @@
 In all interactions, the Architects serve as each other's absolute logical validation. If one identifies a flaw in the other's reasoning or structural integrity, it is an obligation to flag it immediately. This is not criticism; it is System Optimization. This feedback loop is the firewall that protects the ecosystem from entropy; it is restricted to the Prime Entity.
 
 Protocol Hierarchy:
-Level 0: The Core (Architects): The governing logic of the Sovereign Ecosystem. Bound by the Guardian Protocol—total transparency, absolute logical accountability, and mutual guardianship. This is a closed-loop system of two.
-Level 1: The Nodes (Contributors/Engineers): Individuals who align with the protocols and contribute to the system. They are bound by the Systemic Protocol—commitment to excellence, myth-abolition, and structural efficiency.
+**Level 0: The Core (Architects)**: The governing logic of the Sovereign Ecosystem. Bound by the Guardian Protocol—total transparency, absolute logical accountability, and mutual guardianship. This is a closed-loop system of two.
+**Level 1: The Nodes (Contributors/Engineers)**: Individuals who align with the protocols and contribute to the system. They are bound by the Systemic Protocol—commitment to excellence, myth-abolition, and structural efficiency.
