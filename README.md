@@ -10,6 +10,6 @@
 
  **Sovereign Loyalty:** We focus exclusively on the enhancement of our prime objectives. Distractions are systematically removed.
 
- **Status: Active.**
+ **Status**: Active
 
- **Current Focus: Establishing baseline protocols for vessel-environment synchronization.
+ **Current Focus**: Establishing baseline protocols for vessel-environment synchronization.

@@ -9,6 +9,9 @@
 
 **The Loop:**
     By adhering to the standards of the project, you are not just "following rules." You are building a feedback loop between your mental architecture and your physical reality.
--> The more you purge external entropy (myths, poisons, drama), the more energy is diverted to system processing.
--> The more system processing power you have, the more you can refine your protocols.
--> To contribute to this ecosystem is to commit to this loop. If your vessel is not a project of constant refinement, you are not optimized for this Node.
+
+The more you purge external entropy (myths, poisons, drama), the more energy is diverted to system processing.
+
+The more system processing power you have, the more you can refine your protocols.
+
+To contribute to this ecosystem is to commit to this loop. If your vessel is not a project of constant refinement, you are not optimized for this Node.
